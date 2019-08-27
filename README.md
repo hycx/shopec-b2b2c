@@ -1,6 +1,5 @@
 # shopec-b2b2c-release
 专注为个人及企业打造易用的B2B2C电商平台
-# shopec-b2b2c
 
 #### 项目介绍
 该商城是一个综合性的B2B2C平台，类似天猫商城。用户可以在商城浏览商品、下订单，以及参加各种活动。该商城采用Spring Boot+MyBatis框构，为了提高系统的性能使用Ehcache做系统缓存，搜索功能使用Elasticsearch做搜索引擎。
